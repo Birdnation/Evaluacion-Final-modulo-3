@@ -1,0 +1,10 @@
+.container{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 0.1em solid black;
+}
+
+h1{
+    background-color: rgb(109, 109, 248);
+    color: white;
+}
